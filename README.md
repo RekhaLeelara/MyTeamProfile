@@ -12,7 +12,9 @@ Engineer- Name, role, Email id, Github
 
 ## GitHub Repo
 
-Functionality Recording: 
+Functionality Recording: https://drive.google.com/drive/folders/1YK1wm8a_94JniBnXKRlSObI2GlCeW8tw 
+
+Files: MyTeamProfileRecordingPart1.mov, MyTeamProfileRecordingPart2.mov
 
 ## Usage
 
@@ -37,10 +39,3 @@ N/A
 ## Project Status
 
 Baseline project completed. Additional enhancements can be done based on the user feedback.
-
-
-
-
-
-
-

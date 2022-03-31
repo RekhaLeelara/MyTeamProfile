@@ -1,0 +1,88 @@
+*{
+    box-sizing: border-box;
+}
+
+/* Header formatting */
+header{
+    display: flex;
+    padding: 1%;
+    background-color: orange;
+}
+
+#header h1{
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+/* .manager{
+    width: 220px;
+    border-radius: 100px;
+    border-style: blue;
+    margin-top: 100px;
+    margin-left: 200px;
+    position: absolute;
+    text-align: center;
+} */
+
+.rectanglebox{
+    display: block;
+}
+
+.manager{
+    /* color: white; */
+    width: 260px;
+    height: 300px;
+    /* border-radius: 100px; */
+    border-style: groove;
+    margin-top: 100px;
+    margin-left: 50px;
+    background-color: lightblue;
+    display: inline-block;
+    position: relative;
+}
+
+.topsection{
+    background-color: blue;
+    color: white;
+    padding: 10px;
+}
+
+#empid{
+    padding: 5%;
+    margin-left: 8%;
+    width: 220px;
+    border-style: groove;
+    margin-top: 10%;
+    background-color: whitesmoke;
+}
+
+
+#email{
+    padding: 5%;
+    margin-left: 8%;
+    width: 220px;
+    border-style: groove;
+    background-color: whitesmoke;
+}
+
+#gitHub{
+    padding: 5%;
+    margin-left: 8%;
+    width: 220px;
+    border-style: groove;
+    background-color: whitesmoke;
+}
+
+
+
+
+#OfficeNumber{
+    padding: 5%;
+    margin-left: 8%;
+    width: 220px;
+    border-style: groove;
+    background-color: whitesmoke;
+}
+
+
+
